@@ -1,0 +1,8 @@
+com.example.tokoku.app-pngs-0 /Users/isawijayakusuma/AndroidStudioProjects/tokoku/app/build/generated/res/pngs/debug
+com.example.tokoku.app-updated_navigation_xml-1 /Users/isawijayakusuma/AndroidStudioProjects/tokoku/app/build/generated/updated_navigation_xml/debug
+com.example.tokoku.app-packageDebugResources-2 /Users/isawijayakusuma/AndroidStudioProjects/tokoku/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.example.tokoku.app-packageDebugResources-3 /Users/isawijayakusuma/AndroidStudioProjects/tokoku/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.example.tokoku.app-debug-4 /Users/isawijayakusuma/AndroidStudioProjects/tokoku/app/build/intermediates/merged_res/debug/mergeDebugResources
+com.example.tokoku.app-debug-5 /Users/isawijayakusuma/AndroidStudioProjects/tokoku/app/src/debug/res
+com.example.tokoku.app-main-6 /Users/isawijayakusuma/AndroidStudioProjects/tokoku/app/src/main/res
+gradleHome-0 /Users/isawijayakusuma/.gradle
